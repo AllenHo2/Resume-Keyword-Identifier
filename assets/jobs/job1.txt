@@ -1,0 +1,30 @@
+Software Engineer - Machine Learning
+
+We are seeking a talented Software Engineer with expertise in machine learning and artificial intelligence to join our growing team.
+
+Responsibilities:
+- Design and implement machine learning models for production systems
+- Develop scalable data pipelines using Python and distributed computing frameworks
+- Collaborate with cross-functional teams to integrate ML solutions
+- Optimize model performance and conduct A/B testing
+- Write clean, maintainable code following best practices
+- Participate in code reviews and mentor junior engineers
+
+Required Skills:
+- Strong programming skills in Python, Java, or C++
+- Experience with machine learning frameworks (TensorFlow, PyTorch, scikit-learn)
+- Knowledge of data structures and algorithms
+- Familiarity with cloud platforms (AWS, GCP, or Azure)
+- Experience with SQL and NoSQL databases
+- Understanding of software development lifecycle
+- Strong problem-solving abilities
+
+Preferred Qualifications:
+- Master's degree in Computer Science or related field
+- Experience with deep learning and neural networks
+- Knowledge of natural language processing
+- Familiarity with containerization (Docker, Kubernetes)
+- Experience with agile development methodologies
+- Open source contributions
+
+This is an excellent opportunity to work on cutting-edge technology and make a significant impact on our products.
