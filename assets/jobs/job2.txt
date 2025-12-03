@@ -1,0 +1,61 @@
+Software Engineer - Full Stack
+
+Company: Tech Innovations Inc.
+Location: San Francisco, CA (Hybrid)
+Experience Level: Mid-Level (3-5 years)
+
+About the Role:
+We are seeking a talented Full Stack Software Engineer to join our growing engineering team. You will work on building scalable web applications, collaborating with cross-functional teams, and contributing to all phases of the development lifecycle.
+
+Key Responsibilities:
+- Design, develop, and maintain full-stack web applications using modern frameworks
+- Write clean, maintainable, and efficient code following best practices
+- Collaborate with product managers, designers, and other engineers to deliver high-quality features
+- Participate in code reviews and provide constructive feedback to team members
+- Debug and resolve technical issues across the entire stack
+- Optimize application performance and scalability
+- Contribute to system architecture and technical design decisions
+- Mentor junior developers and share knowledge with the team
+
+Required Qualifications:
+- Bachelor's degree in Computer Science, Software Engineering, or related field
+- 3+ years of professional software development experience
+- Strong proficiency in JavaScript/TypeScript and modern web development
+- Experience with React, Angular, or Vue.js frontend frameworks
+- Solid understanding of Node.js and Express for backend development
+- Proficiency with relational databases (PostgreSQL, MySQL) and SQL
+- Experience with RESTful API design and development
+- Knowledge of Git version control and collaborative development workflows
+- Understanding of software design patterns and object-oriented programming
+- Strong problem-solving skills and attention to detail
+- Excellent communication and teamwork abilities
+
+Preferred Qualifications:
+- Experience with cloud platforms (AWS, Azure, or Google Cloud)
+- Familiarity with Docker and containerization
+- Knowledge of CI/CD pipelines and DevOps practices
+- Experience with microservices architecture
+- Understanding of GraphQL
+- Familiarity with testing frameworks (Jest, Mocha, Pytest)
+- Experience with Agile/Scrum development methodologies
+- Contributions to open-source projects
+- Knowledge of Python or Java
+
+Technical Skills:
+- Frontend: React, TypeScript, HTML5, CSS3, Redux, Webpack
+- Backend: Node.js, Express, RESTful APIs
+- Databases: PostgreSQL, MySQL, MongoDB
+- Tools: Git, Docker, Jenkins, JIRA
+- Cloud: AWS (EC2, S3, Lambda)
+
+What We Offer:
+- Competitive salary and equity package
+- Comprehensive health, dental, and vision insurance
+- 401(k) with company match
+- Flexible work arrangements (hybrid model)
+- Professional development budget
+- Collaborative and innovative work environment
+- Opportunity to work on cutting-edge technologies
+
+Equal Opportunity Employer:
+Tech Innovations Inc. is committed to creating a diverse and inclusive workplace. We welcome applications from all qualified candidates regardless of race, color, religion, gender, sexual orientation, national origin, age, disability, or veteran status.

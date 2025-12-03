@@ -1,16 +1,8 @@
 import os
 from typing import List
 
+# Load a single text file.
 def load_text_file(file_path: str) -> str:
-    """
-    Load text content from a file.
-    
-    Args:
-        file_path: Path to the text file
-    
-    Returns:
-        File content as string
-    """
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
             return f.read()
@@ -18,64 +10,22 @@ def load_text_file(file_path: str) -> str:
         print(f"Error loading file {file_path}: {e}")
         return ""
 
+# Load multiple text files.
 def load_multiple_files(file_paths: List[str]) -> List[str]:
-    """
-    Load multiple text files.
-    
-    Args:
-        file_paths: List of file paths
-    
-    Returns:
-        List of file contents
-    """
     return [load_text_file(path) for path in file_paths]
 
-def save_text_file(content: str, file_path: str):
-    """
-    Save text content to a file.
-    
-    Args:
-        content: Text content to save
-        file_path: Destination file path
-    """
-    try:
-        os.makedirs(os.path.dirname(file_path), exist_ok=True)
-        with open(file_path, 'w', encoding='utf-8') as f:
-            f.write(content)
-        print(f"Saved to {file_path}")
-    except Exception as e:
-        print(f"Error saving file {file_path}: {e}")
-
-def file_exists(file_path: str) -> bool:
-    """
-    Check if a file exists.
-    
-    Args:
-        file_path: Path to check
-    
-    Returns:
-        True if file exists, False otherwise
-    """
-    return os.path.exists(file_path)
-
-def list_files_in_directory(directory: str, extension: str = None) -> List[str]:
-    """
-    List all files in a directory, optionally filtered by extension.
-    
-    Args:
-        directory: Directory path
-        extension: File extension to filter (e.g., '.txt', '.pdf')
-    
-    Returns:
-        List of file paths
-    """
+# List all files in a directory with a specific extension.
+def list_files_in_directory(directory: str, extension: str = "pdf") -> List[str]:
     try:
         files = []
         for filename in os.listdir(directory):
             file_path = os.path.join(directory, filename)
             if os.path.isfile(file_path):
+                # Check file extension
                 if extension is None or filename.endswith(extension):
                     files.append(file_path)
+        # Sort files naturally (handles numeric ordering correctly)
+        files.sort()
         return files
     except Exception as e:
         print(f"Error listing directory {directory}: {e}")

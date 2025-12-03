@@ -20,7 +20,7 @@ Required Skills:
 - Strong problem-solving abilities
 
 Preferred Qualifications:
-- Master's degree in Computer Science or related field
+- Bachelors's degree in Computer Science or related field
 - Experience with deep learning and neural networks
 - Knowledge of natural language processing
 - Familiarity with containerization (Docker, Kubernetes)

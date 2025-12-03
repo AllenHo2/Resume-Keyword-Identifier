@@ -1,0 +1,170 @@
+DevOps Engineer
+
+Company: CloudScale Technologies
+Location: Austin, TX / Remote Hybrid
+Experience Level: Mid to Senior (4-7 years)
+Salary Range: $130,000 - $180,000 + Bonus
+
+About the Role:
+We are looking for a talented DevOps Engineer to join our infrastructure team. You will be responsible for building and maintaining our cloud infrastructure, implementing CI/CD pipelines, and ensuring the reliability and scalability of our production systems. This role is perfect for someone who loves automation, infrastructure as code, and solving complex operational challenges.
+
+Key Responsibilities:
+- Design, implement, and maintain scalable cloud infrastructure on AWS, Azure, or GCP
+- Build and optimize CI/CD pipelines for continuous integration and deployment
+- Automate infrastructure provisioning and configuration management using Terraform, Ansible, or similar tools
+- Implement and maintain container orchestration platforms using Kubernetes and Docker
+- Monitor system performance, availability, and security using modern observability tools
+- Implement disaster recovery plans and ensure high availability of production systems
+- Collaborate with development teams to improve deployment processes and reduce lead time
+- Manage and optimize cloud costs and resource utilization
+- Implement security best practices and ensure compliance with industry standards
+- Respond to incidents and participate in on-call rotation
+- Create and maintain comprehensive documentation for infrastructure and procedures
+- Automate routine operational tasks using scripting languages (Python, Bash, PowerShell)
+
+Required Qualifications:
+- Bachelor's degree in Computer Science, Information Technology, or related field (or equivalent experience)
+- 4+ years of experience in DevOps, Site Reliability Engineering, or Infrastructure Engineering
+- Strong experience with cloud platforms (AWS, Azure, or GCP)
+- Proficiency with Infrastructure as Code tools (Terraform, CloudFormation, Pulumi)
+- Hands-on experience with container technologies (Docker, Kubernetes, ECS, EKS)
+- Experience building and maintaining CI/CD pipelines (Jenkins, GitLab CI, GitHub Actions, CircleCI)
+- Strong scripting skills in Python, Bash, or PowerShell
+- Experience with configuration management tools (Ansible, Chef, Puppet, Salt)
+- Knowledge of monitoring and logging solutions (Prometheus, Grafana, ELK Stack, Datadog)
+- Understanding of networking concepts (VPC, Load Balancers, DNS, CDN)
+- Experience with version control systems (Git) and branching strategies
+- Solid understanding of Linux/Unix system administration
+- Knowledge of security best practices and compliance requirements
+
+Preferred Qualifications:
+- AWS, Azure, or GCP certifications (Solutions Architect, DevOps Engineer, SRE)
+- Experience with service mesh technologies (Istio, Linkerd, Consul)
+- Knowledge of GitOps practices and tools (ArgoCD, Flux)
+- Experience with serverless architectures (Lambda, Cloud Functions, Azure Functions)
+- Understanding of database administration (PostgreSQL, MySQL, MongoDB)
+- Experience with message queuing systems (Kafka, RabbitMQ, AWS SQS)
+- Knowledge of chaos engineering and resilience testing
+- Experience with infrastructure cost optimization
+- Familiarity with security scanning tools (Trivy, Aqua, Snyk)
+- Experience with multi-cloud or hybrid cloud environments
+- Understanding of site reliability engineering (SRE) principles
+
+Technical Skills & Tools:
+
+Cloud Platforms:
+- Amazon Web Services (AWS): EC2, S3, RDS, Lambda, ECS, EKS, CloudWatch, IAM, VPC, Route53
+- Microsoft Azure: VMs, Blob Storage, AKS, Azure DevOps, Application Insights
+- Google Cloud Platform (GCP): Compute Engine, GKE, Cloud Storage, Cloud Build
+
+Infrastructure as Code:
+- Terraform (required)
+- AWS CloudFormation
+- Pulumi
+- ARM Templates
+
+Containerization & Orchestration:
+- Docker (required)
+- Kubernetes (required)
+- Helm charts
+- Docker Compose
+- Amazon ECS/EKS
+- Azure AKS
+- Google GKE
+
+CI/CD Tools:
+- Jenkins (required)
+- GitLab CI/CD
+- GitHub Actions
+- CircleCI
+- Travis CI
+- Azure DevOps
+- ArgoCD (GitOps)
+- Spinnaker
+
+Configuration Management:
+- Ansible (required)
+- Chef
+- Puppet
+- Salt
+
+Monitoring & Observability:
+- Prometheus & Grafana
+- ELK Stack (Elasticsearch, Logstash, Kibana)
+- Datadog
+- New Relic
+- Splunk
+- CloudWatch
+- PagerDuty
+- Sentry
+
+Scripting & Programming:
+- Python (required)
+- Bash/Shell scripting (required)
+- PowerShell
+- Go
+- Ruby
+
+Version Control & Collaboration:
+- Git (required)
+- GitHub, GitLab, Bitbucket
+- JIRA, Confluence
+
+Security & Compliance:
+- Vault (HashiCorp)
+- AWS Secrets Manager
+- Trivy, Aqua Security
+- SAST/DAST tools
+- SSL/TLS certificate management
+- IAM and RBAC
+
+Databases:
+- PostgreSQL
+- MySQL
+- MongoDB
+- Redis
+- DynamoDB
+
+Networking:
+- Load Balancers (ALB, NLB, HAProxy, NGINX)
+- VPN and VPC configuration
+- DNS management (Route53, CloudFlare)
+- CDN (CloudFront, Akamai)
+
+Responsibilities & Expectations:
+- Participate in on-call rotation (1 week per month)
+- Maintain 99.9% uptime SLA for production systems
+- Reduce deployment time from hours to minutes
+- Automate at least 80% of routine operational tasks
+- Implement comprehensive monitoring and alerting
+- Conduct regular security audits and vulnerability assessments
+- Lead post-mortem meetings after incidents
+- Mentor junior team members on DevOps best practices
+- Collaborate with development teams to improve code deployment process
+
+What We Offer:
+- Competitive salary with annual performance bonuses
+- Comprehensive health, dental, and vision insurance
+- 401(k) with 4% company match
+- Flexible work schedule with remote work options
+- Professional development budget ($3,000/year for certifications and training)
+- Home office setup allowance ($1,500)
+- Latest tech equipment (laptop, monitors, accessories)
+- Unlimited PTO policy
+- Conference attendance opportunities (AWS re:Invent, KubeCon, DevOps Days)
+- Team lunch budget and quarterly team events
+- Stock options for senior positions
+- Gym membership reimbursement
+- Mental health and wellness support
+
+Team Culture:
+Our DevOps team values automation, collaboration, and continuous improvement. We practice blameless post-mortems, encourage experimentation, and believe in "you build it, you run it" philosophy. We're committed to learning, sharing knowledge, and supporting each other's growth.
+
+Career Growth:
+This role offers clear paths to Senior DevOps Engineer, Staff DevOps Engineer, or DevOps Team Lead positions. We invest in our team's growth through training, certifications, conference attendance, and hands-on experience with cutting-edge technologies.
+
+Equal Opportunity Employer:
+CloudScale Technologies is an equal opportunity employer committed to diversity and inclusion. We encourage applications from candidates of all backgrounds and provide accommodations during the hiring process as needed.
+
+How to Apply:
+Please submit your resume along with a cover letter describing your most interesting infrastructure automation project. Include links to your GitHub, GitLab, or any relevant technical blog posts or contributions to open-source projects.

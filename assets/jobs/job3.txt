@@ -1,0 +1,98 @@
+Senior Software Engineer
+
+Company: TechVision Solutions
+Location: Remote / San Francisco Bay Area
+Experience Level: Senior (7+ years)
+Salary Range: $180,000 - $250,000 + Equity
+
+About the Role:
+We are seeking an exceptional Senior Software Engineer to join our platform engineering team. You will lead the design and implementation of mission-critical systems, mentor junior engineers, and drive technical strategy for our high-scale distributed applications serving millions of users globally.
+
+Key Responsibilities:
+- Lead end-to-end design and development of complex distributed systems and microservices
+- Architect scalable, highly available systems handling millions of requests per day
+- Drive technical decision-making and establish engineering best practices across teams
+- Mentor and guide mid-level and junior engineers through code reviews and pair programming
+- Collaborate with product managers and stakeholders to translate business requirements into technical solutions
+- Optimize system performance, reliability, and scalability through profiling and benchmarking
+- Lead incident response and conduct thorough post-mortem analyses
+- Evaluate and integrate new technologies to improve development velocity and system quality
+- Participate in technical interviews and help build world-class engineering teams
+- Contribute to open-source projects and represent the company at technical conferences
+
+Required Qualifications:
+- Bachelor's or Master's degree in Computer Science, Software Engineering, or equivalent experience
+- 7+ years of professional software engineering experience with production systems
+- Expert-level proficiency in at least two programming languages (Python, Java, Go, or C++)
+- Deep understanding of distributed systems, microservices architecture, and event-driven design
+- Extensive experience with cloud platforms (AWS, GCP, or Azure) and infrastructure as code
+- Strong knowledge of databases: SQL (PostgreSQL, MySQL) and NoSQL (MongoDB, Redis, Cassandra)
+- Proven track record of designing and scaling systems to handle high traffic volumes
+- Experience with containerization (Docker, Kubernetes) and orchestration at scale
+- Expertise in system design, data structures, algorithms, and complexity analysis
+- Strong understanding of software design patterns and SOLID principles
+- Experience with CI/CD pipelines, automated testing, and deployment strategies
+- Excellent problem-solving skills and ability to debug complex distributed systems
+- Outstanding communication skills and ability to influence technical direction
+- Track record of mentoring engineers and leading technical initiatives
+
+Preferred Qualifications:
+- Master's degree or PhD in Computer Science or related field
+- Experience building and scaling systems to millions of users
+- Deep expertise in performance optimization and capacity planning
+- Knowledge of machine learning systems and data pipelines
+- Experience with service mesh architectures (Istio, Linkerd)
+- Contributions to major open-source projects
+- Experience with real-time data processing (Kafka, Spark, Flink)
+- Understanding of security best practices and compliance requirements (SOC2, GDPR)
+- Experience with observability tools (Prometheus, Grafana, Datadog, New Relic)
+- Knowledge of GraphQL, gRPC, and modern API design patterns
+- Experience leading cross-functional technical projects
+- Published technical blog posts, papers, or conference presentations
+
+Technical Skills & Technologies:
+- Languages: Python, Java, Go, C++, Scala, Rust
+- Frameworks: Spring Boot, Django, Flask, FastAPI, Node.js
+- Cloud: AWS (EC2, S3, Lambda, RDS, ECS, EKS), GCP, Azure
+- Databases: PostgreSQL, MySQL, MongoDB, Redis, Cassandra, DynamoDB
+- Message Queues: Kafka, RabbitMQ, AWS SQS/SNS
+- Containers: Docker, Kubernetes, Helm, Istio
+- CI/CD: Jenkins, GitLab CI, GitHub Actions, CircleCI, ArgoCD
+- Infrastructure: Terraform, Ansible, CloudFormation
+- Monitoring: Prometheus, Grafana, ELK Stack, Datadog, Splunk
+- Caching: Redis, Memcached, Varnish
+- Search: Elasticsearch, Solr
+- Version Control: Git, GitHub, GitLab
+- Architecture: Microservices, Event-Driven, Domain-Driven Design (DDD)
+- Protocols: REST, GraphQL, gRPC, WebSockets
+
+Leadership & Soft Skills:
+- Technical leadership and project management experience
+- Ability to drive consensus and make strategic technical decisions
+- Strong mentorship and coaching abilities
+- Excellent written and verbal communication
+- Experience with agile methodologies (Scrum, Kanban)
+- Ability to balance technical debt with feature development
+- Strong analytical and critical thinking skills
+- Customer-focused mindset and business acumen
+
+What We Offer:
+- Competitive compensation with significant equity package
+- Comprehensive health, dental, and vision insurance (100% covered)
+- 401(k) with generous company match (6%)
+- Flexible work arrangements (remote-first culture)
+- Unlimited PTO and flexible work hours
+- $5,000 annual learning and development budget
+- Home office stipend ($2,000)
+- Latest MacBook Pro or Linux workstation of your choice
+- Annual company retreats and team-building events
+- Parental leave (16 weeks paid)
+- Mental health and wellness benefits
+- Stock options with favorable terms
+- Opportunity to work on cutting-edge technology with significant impact
+
+About Our Tech Stack:
+Our platform processes over 10 million requests per day, handles petabytes of data, and serves users across 50+ countries. You'll work with modern technologies including Kubernetes, Kafka, PostgreSQL, Redis, and AWS. We practice continuous deployment, comprehensive monitoring, and data-driven decision making.
+
+Equal Opportunity Employer:
+TechVision Solutions is committed to building a diverse and inclusive workplace. We welcome applications from candidates of all backgrounds regardless of race, color, religion, gender, sexual orientation, national origin, age, disability, veteran status, or any other protected characteristic.
