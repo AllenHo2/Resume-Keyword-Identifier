@@ -16,7 +16,7 @@ def compute_tfidf(documents: List[str], max_features: int = None,
         
         for doc in documents:
             tokens = doc.split()
-            stemmed_tokens, doc_mapping = stem_with_mapping(tokens, use_lemmatizer=False)
+            stemmed_tokens, doc_mapping = stem_with_mapping(tokens)
             stemmed_docs.append(' '.join(stemmed_tokens))
             stem_mapping.update(doc_mapping)
         
